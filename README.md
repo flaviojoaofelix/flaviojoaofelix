@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I'ḿ Flávio João Félix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe)! 💚
+### Hi there! 👋
+#### I'ḿ Flávio João Félix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe). 💚
 
 <!--
 **flaviojoaofelix/flaviojoaofelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
