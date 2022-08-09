@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I'ḿ Flávio João Feĺix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe)! 💚
 
 <!--
 **flaviojoaofelix/flaviojoaofelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +17,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/giovanedann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojoaofelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojoaofelix&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
+<div align="center">
+ <img height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
 </div>
 
 ##
