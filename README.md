@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
- <img height="180em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
+ <img height="80em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 </div>
 
 ##
