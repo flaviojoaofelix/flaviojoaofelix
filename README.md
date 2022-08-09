@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="React Testing Library" /></a>
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" />
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
