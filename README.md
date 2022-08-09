@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img height="38em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" /></a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="38" height="38" alt="React Testing Library" /></a>
    <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
+  <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a> --->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></a>
 </div>
