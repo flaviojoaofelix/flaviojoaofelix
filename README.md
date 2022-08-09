@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
-  <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /></a>
   <img height="48em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <img height="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="React Testing Library" /></a>
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" />
   <img height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
