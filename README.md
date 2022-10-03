@@ -1,5 +1,5 @@
-### Hi there! 👋
-### I'm Flávio João Félix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe). 💚
+<h3> Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h3>
+<h3> I'm Flávio João Félix, Full Stack Web Developer Student at <a href="https://github.com/betrybe" target="_blank" rel="noreferrer">Trybe</a>! 💚 </h3>
 
 ##
 
@@ -42,30 +42,37 @@ Here are some ideas to get you started:
 </div>
 --->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
 ##
 
+<div align="center">
+  <h3>STACK</h3>
+  <p>
+     <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+     <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+     <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+     <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+     <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </p>
+</div>
+<!---
 <p align="center">
   <a href="https://flaviojoaofelix.dev">
     <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
   </a>
 </p>
+--->
 
 ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/flaviojoaofelix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <h3>GET IN TOUCH</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/flaviojoaofelix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 </div>
 
 <div align="right">
