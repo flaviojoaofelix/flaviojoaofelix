@@ -23,8 +23,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojoaofelix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
 ##
 
+<!---
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="38em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /></a>
@@ -37,10 +39,18 @@ Here are some ideas to get you started:
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img height="38em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" /></a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="38" height="38" alt="React Testing Library" /></a>
    <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" /></a>
-  <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a> --->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></a>
 </div>
+--->
+
+##
+
+
+<p align="center">
+  <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
+</p>
 
 ##
 
