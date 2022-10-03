@@ -1,5 +1,5 @@
-<h3> Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h3>
-<h3> I'm Flávio João Félix, Full Stack Web Developer Student at <a href="https://github.com/betrybe" target="_blank" rel="noreferrer">Trybe</a>! 💚 </h3>
+### Hi there! 👋
+### I'm Flávio João Félix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe). 💚
 
 ##
 
@@ -23,7 +23,47 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojoaofelix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+##
+
+<div align="center">
+  <h4>STACK</h4>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <!---<img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />--->
+    <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </p>
+</div>
+
+##
+
+<div align="center">
+  <h4>GET IN TOUCH</h4>
+  <p>
+    <a href="https://www.linkedin.com/in/flaviojoaofelix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
+</div>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=flaviojoaofelix" />
+</div>
+
 <!---
+<p align="center">
+  <a href="https://flaviojoaofelix.dev">
+    <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="38em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /></a>
@@ -39,42 +79,4 @@ Here are some ideas to get you started:
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></a>
-</div>
 --->
-
-##
-
-<div align="center">
-  <h3>STACK</h3>
-  <p>
-     <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-     <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-     <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-     <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-     <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </p>
-</div>
-<!---
-<p align="center">
-  <a href="https://flaviojoaofelix.dev">
-    <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
-  </a>
-</p>
---->
-
-##
-
-<div align="center"> 
-  <h3>GET IN TOUCH</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/flaviojoaofelix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </p>
-</div>
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=flaviojoaofelix" />
-</div>
