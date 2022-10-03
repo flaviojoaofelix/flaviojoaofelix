@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojoaofelix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-##
-
 <!---
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="42em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" /></a>
@@ -47,9 +44,10 @@ Here are some ideas to get you started:
 
 ##
 
-
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
+  <a href="https://flaviojoaofelix.dev">
+    <img src="https://skills.thijs.gg/icons?i=vscode,html,css,js,react,redux,nodejs,express,jest,php,wordpress,mysql,git,github,vite,docker&theme=light&perline=4" />
+  </a>
 </p>
 
 ##
