@@ -38,6 +38,7 @@ Here are some ideas to get you started:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+    <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-React Testing Library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" /></a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
     <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /></a>
     <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Chai-%23A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai Assertion Library" /></a>
