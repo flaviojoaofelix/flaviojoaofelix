@@ -40,10 +40,10 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" /></a>
-    <!---<img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />--->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
+    <!--- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a> --->
   </p>
 </div>
 
