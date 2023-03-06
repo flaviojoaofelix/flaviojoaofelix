@@ -1,7 +1,7 @@
-### Hi there! 👋
-### I'm Flávio João Félix, Full Stack Web Developer Student at [Trybe](https://github.com/betrybe). 💚
-
-##
+<div align="center">
+  <h2>< 👋 Hello, Wold! /></h2>
+  <p>I'm <strong>Flávio João Félix</strong>, <i>Full Stack Web Developer</i> Student at <a href="https://betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>. 💚</p>
+</div>
 
 <!--
 **flaviojoaofelix/flaviojoaofelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Ecmascript" /></a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" /></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
     <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Testing Library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library" /></a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
