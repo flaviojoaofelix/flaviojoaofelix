@@ -1,6 +1,7 @@
 <div align="center">
   <h2>< 👋 Hello, Wold! /></h2>
-  <p>I'm <strong>Flávio João Félix</strong>, <i>Full Stack Web Developer</i> Student at <a href="https://betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>. 💚</p>
+  <p>I'm <strong>Flávio João Félix</strong>, <i>Full Stack Web Developer</i>, certified by <a href="https://www.linkedin.com/school/betrybe/" target="_blank" rel="noreferrer">Trybe</a>. 💚</p>
+  <p>Currently working with front-end development of <a href="https://www.digitro.com" target="_blank" rel="noreferrer">Dígitro's</a> contact center application called <a href="https://www.digitro.com/solucao/neointeract" target="_blank" rel="noreferrer">NeoInteract</a>.</p>
 </div>
 
 <!--
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Material%20UI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Ecmascript" /></a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
